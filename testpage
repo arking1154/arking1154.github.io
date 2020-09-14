@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html template="true"><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>testpage</title><style type="text/css">
+body {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: normal;
+}
+h1 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+h2 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.highlight {
+  font-style: italic;
+  background-color: #ffff66;
+}
+.bigblue {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 36px;
+  color: #000099;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+</style></head><body>
+<h1>Hello This Is My Title</h1>
+<br>
+<h2>This is A Subtitle</h2>
+<br>
+This is the text of my webstie, also known as the&nbsp;<span class="highlight">body text</span>.<br>
+<br>
+<span class="bigblue">big blue</span><br>
+</body></html>
